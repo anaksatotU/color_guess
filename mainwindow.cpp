@@ -16,7 +16,7 @@ MainWindow::MainWindow(QWidget *parent)
     settingFieldStyle();
 
     showGameField();
-    qInfo() << "it is shown";
+    qInfo() << "it is shown2";
 
 }
 
